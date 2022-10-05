@@ -1,0 +1,59 @@
+h1{
+    color:rgb(27, 59, 155);
+}
+.first-td::before{
+    content :'✨'
+}
+.second-td::before{
+    content :'📞'
+}
+.third-td::before{
+    content :'📍'
+}
+.four-td::before{
+    content :'➡️'
+}
+input{
+    background-color: white;
+    border-color:#a08b8b;
+    border-radius: 10em;
+}
+h3{
+    color: rgb(29, 29, 164);
+}
+hr{
+    color: rgb(243, 243, 31);
+}
+span{
+    color: rgb(30, 30, 241);
+}
+span::before{
+    content:'→'
+}
+.five-td::before{
+    content: '📅';
+}
+.six-td::before{
+    content:'📍'
+}
+.sev-td::before{
+    content:'➛'
+}
+.eit-td::before{
+    content: '￫';
+}
+.column-td{
+    padding: 2.5em;
+}
+div{
+    font-size: 1em;
+    color:rgb(14, 9, 9);
+}
+.five-td{
+    font-size: 0.8em ;
+    color:rgb(14, 9, 9);
+}
+.six-td{
+    font-size: 0.8em;
+    color:rgb(14, 9, 9);
+}
